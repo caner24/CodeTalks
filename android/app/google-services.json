@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963324112010",
+    "firebase_url": "https://codetals-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "codetals",
+    "storage_bucket": "codetals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963324112010:android:4ebcb2681be076ad81d173",
+        "android_client_info": {
+          "package_name": "com.codetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963324112010-7djacfa02h176oeo9inu8jl8ebhuo2hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEndrBsPT3sNjlIjAS4Hgggzudw414T7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963324112010-7djacfa02h176oeo9inu8jl8ebhuo2hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
